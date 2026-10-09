@@ -58,7 +58,7 @@ Un **espacio de intercambio entre pares** generado desde y para la comunidad de 
 
 ## 🗓️ Programa del Encuentro
 
-El programa se encuentra **en preparación**. Próximamente se publicarán las charlas, talleres, actividades y espacios de intercambio que formarán parte de la jornada.
+La jornada combina **charlas** sobre experiencias de uso de OpenStreetMap, **talleres** prácticos (desde los primeros pasos en OSM hasta el uso de datos en QGIS) y un **mapatón** de escuelas de Pergamino.
 
 [Ver programa completo]({{ '/programa' | relative_url }}){:.btn .btn-outline}
 
