@@ -17,8 +17,6 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
     <h3>🏛️ Modelo Municipal Consolidado</h3>
     <div class="caso-tiempo">2015 - 2025 | 10 años de actividad</div>
   </div>
-  
-  </div>
 </div>
 
 ### 📊 Métricas de Impacto
@@ -132,7 +130,7 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
 
 <div class="conexion-idera">
   <h3>🔗 Círculo Virtuoso de Colaboración</h3>
-  
+
   <div class="flujo-colaboracion">
     <div class="flujo-item">
       <div class="flujo-icono">📊</div>
@@ -141,9 +139,9 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
         <p>XIX Jornadas - Origen del Encuentro OSM</p>
       </div>
     </div>
-    
+
     <div class="flujo-arrow">→</div>
-    
+
     <div class="flujo-item">
       <div class="flujo-icono">🏛️</div>
       <div class="flujo-contenido">
@@ -151,9 +149,9 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
         <p>Taller SIG + colaboración universitaria</p>
       </div>
     </div>
-    
+
     <div class="flujo-arrow">→</div>
-    
+
     <div class="flujo-item">
       <div class="flujo-icono">🗺️</div>
       <div class="flujo-contenido">
@@ -161,9 +159,9 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
         <p>Pergamino como caso de éxito</p>
       </div>
     </div>
-    
+
     <div class="flujo-arrow">→</div>
-    
+
     <div class="flujo-item">
       <div class="flujo-icono">🚀</div>
       <div class="flujo-contenido">
@@ -210,7 +208,7 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
 
 ---
 
-## 🎯 Aplicación al Encuentro 2025
+## 🎯 Aplicación al Encuentro 2026
 
 ### **Para las Charlas Temáticas**
 - **Federico Gazaba y Carlos Brys** tienen casos concretos de referencia
@@ -222,8 +220,8 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
 - **Metodología Misiones** de capacitación intensiva aplicable al formato del encuentro
 - **Herramientas consolidadas** (IDE + OSM) como referencia técnica
 
-### **Para SOTM 2026**
-- **Base sólida establecida:** Dos modelos exitosos + encuentro 2025
+### **Para SOTM 2027**
+- **Base sólida establecida:** Dos modelos exitosos + encuentro 2026
 - **Red de colaboradores:** Academia (UNLu) + municipios (Pergamino) + provincia (Misiones)
 - **Metodología escalable:** De encuentro local a conferencia nacional
 
@@ -238,7 +236,7 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
     <a href="http://ide.pergamino.gob.ar" target="_blank">IDE Pergamino</a>
     <a href="https://noticias.pergamino.ar/2025/07/15/pergamino-presente-en-las-xix-jornadas-idera-con-un-taller-sobre-sistemas-de-informacion-geografica/" target="_blank">Participación IDERA 2025</a>
   </div>
-  
+
   <div class="recurso-grupo">
     <h4>Misiones</h4>
     <a href="https://www.modernizacion.misiones.gov.ar/curso-de-mapeo-colaborativo-con-openstreetmap/" target="_blank">Curso oficial 2017</a>
@@ -431,15 +429,15 @@ Estos casos demuestran cómo la colaboración entre organismos públicos y la co
   .flujo-colaboracion {
     flex-direction: column;
   }
-  
+
   .flujo-arrow {
     transform: rotate(90deg);
   }
-  
+
   .recursos-casos {
     grid-template-columns: 1fr;
   }
-  
+
   .metricas-pergamino {
     grid-template-columns: 1fr;
   }

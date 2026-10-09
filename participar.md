@@ -14,13 +14,9 @@ El Encuentro OSM Argentina 2026 se realizará en **Pergamino**, con modalidad **
 
 ## 📅 Confirmación de Asistencia
 
-### **Registro Oficial**
-
 <div class="registro-opciones">
-  <a href="{{ site.links.osm_calendar }}" target="_blank" class="btn btn-success btn-large">📅 OSM Calendar</a>
+  <a href="{{ '/inscripcion' | relative_url }}" target="_blank" class="btn btn-success btn-large">Inscripción</a>
 </div>
-
-> La información sobre inscripción y registro de participantes será publicada próximamente.
 
 ---
 
