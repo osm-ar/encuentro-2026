@@ -6,115 +6,26 @@ subtitle: "Programa y actividades · 17 de octubre de 2026"
 
 ## 📅 Programa
 
-El **Encuentro OSM Argentina 2026 – State of the Map (SOTM)** se realizará el **sábado 17 de octubre de 2026**, de **9:00 a 17:00 horas**, en el **Hub de Innovación de la Municipalidad de Pergamino**.
+El **Encuentro OSM Argentina 2026 – State of the Map (SOTM)** se realizará el **sábado 17 de octubre de 2026**, de **09:00 a 17:00 horas**, en el **Hub de Innovación de la Municipalidad de Pergamino**.
 
 La jornada tendrá modalidad **presencial y virtual**, y reunirá a integrantes de la comunidad OpenStreetMap, organismos públicos, profesionales, estudiantes, desarrolladores, investigadores y personas interesadas en los datos geográficos abiertos y colaborativos.
 
 ---
 
-## 🗓️ Programa detallado
+## 🕘 Horario
 
-El programa se encuentra actualmente **en preparación**.
+- **09:00 – 09:15** · **Acreditación**: Registro de asistentes. Si todavía no te inscribiste, podés hacerlo desde la página de [inscripción]({{ '/inscripcion' | relative_url }}).
+- **09:15 – 09:45** · **Sinergia institucional: Municipalidad de Pergamino + OpenStreetMap**: [Federico Gazaba](https://www.openstreetmap.org/user/Federico%20Gazaba), Director de la DSIG (IDE Pergamino), nos cuenta cómo la IDE Pergamino emplea OpenStreetMap como mapa base y repositorio de datos, mapeando oficialmente para publicar, respaldar y validar datos territoriales de calidad.
+- **09:45 – 10:15** · **Gestión del catastro de arbolado urbano con OpenStreetMap en Valdivia, Chile**: [Paul Dassori](https://www.openstreetmap.org/user/Awo) nos muestra cómo es posible mapear el arbolado urbano en OpenStreetMap, a partir de su experiencia en Valdivia (Chile).
+- **10:15 – 10:45** · **Jerarquización de caminos rurales con OSM en Luján**: [Andrés Duhour](https://www.openstreetmap.org/user/AndresDuhour) nos explica el proceso de construcción de una base de datos para jerarquizar los caminos rurales de Luján (Buenos Aires), en conjunto con la Universidad y el Gobierno local.
+- **10:45 – 11:15** · **Break / café**: Desayuno a cargo de la organización.
+- **11:15 – 12:30** · **Taller de edición básica de OpenStreetMap**: Primeros pasos en OpenStreetMap, pensado para quienes nunca editaron: desde crear la cuenta hasta subir el primer conjunto de cambios con el editor iD. No hace falta experiencia previa.
+- **12:30 – 13:30** · **Break / Almuerzo**: Hora libre para almorzar.
+- **13:30 – 14:30** · **Taller de descarga y uso de datos OSM en QGIS**: [Pablo Schweitzer](https://www.openstreetmap.org/user/SolbaP%20%28TomTom%29) nos explica cómo descargar datos de OpenStreetMap para procesarlos en QGIS. Es Sociólogo, Mg. en Planificación Urbana, investigador del CIHAM - FADU/UBA y analista geoespacial de TomTom.
+- **14:30 – 15:30** · **Prevención de inundaciones y OpenStreetMap: oportunidades y desafíos del mapeo con comunidades sin experiencia previa**: [Silvina Meritano](https://www.openstreetmap.org/user/Silvi715) expone sobre el uso de OpenStreetMap en emergencias por inundaciones. Es Embajadora Comunitaria de UN Mappers, Mg. en Sociología y Lic. en Trabajo Social. Forma parte de la comunidad desde 2020, cuando empezó a mapear durante una serie de incendios que afectaron su localidad, y desde 2023 brinda capacitaciones, talleres y cursos de posgrado sobre mapeo abierto y OSM.
+- **15:30 – 17:00** · **Mapatón: Proyecto Escuelas en Pergamino**: mapeo colaborativo de las escuelas de Pergamino en el marco del [Proyecto Escuelas]({{ '/proyecto-escuelas' | relative_url }}), utilizando fuentes de datos oficiales.
 
-Durante la jornada se prevé abordar diferentes experiencias, proyectos y herramientas vinculados con:
-
-### 🌎 OpenStreetMap y datos abiertos
-
-- Experiencias de utilización de OpenStreetMap.
-- Producción y actualización colaborativa de información geográfica.
-- Datos abiertos y su utilización por parte de instituciones, organizaciones y ciudadanos.
-- Herramientas y metodologías para mejorar la calidad de los datos.
-
-### 🏛️ OpenStreetMap y organismos públicos
-
-- Experiencias de integración de OSM en la gestión pública.
-- Uso de datos geográficos abiertos como insumo para el análisis territorial.
-- Vinculación entre comunidades de mapeadores e instituciones públicas.
-- Experiencias desarrolladas desde la **Municipalidad de Pergamino** y otras organizaciones.
-
-### 🗺️ Mapeo y trabajo colaborativo
-
-- Herramientas para edición y relevamiento de información.
-- Metodologías de mapeo colaborativo.
-- Experiencias de participación comunitaria.
-- Intercambio de conocimientos entre mapeadores de distintas localidades.
-
-### 💻 Herramientas y tecnologías
-
-- Editores y herramientas para OpenStreetMap.
-- Procesamiento y análisis de datos geográficos.
-- Nuevas herramientas para captura y actualización de información territorial.
-- Proyectos y desarrollos de software libre vinculados con OSM.
-
----
-
-## 🕘 Horario general
-
-| Horario | Actividad |
-|---|---|
-| **9:00 – 9:15** | Acreditación |
-| **9:15 – 9:45** | Sinergia institucional: Municipalidad de Pergamino + OpenStreetMap |
-| **9:45 – 10:15** | Gestión del catastro de arbolado urbano con OpenStreetMap en Valdivia |
-| **10:15 – 10:45** | Jerarquización de caminos rurales con OSM en Luján |
-| **10:45 – 11:15** | Break / café |
-| **11:15 – 12:30** | Taller de edición básica de OpenStreetMap |
-| **12:30 – 13:30** | Break / Almuerzo |
-| **13:30 – 14:30** | Taller de descarga y uso de datos OSM en QGIS |
-| **14:30 – 15:30** | Taller a confirmar |
-| **15:30 – 17:00** | Mapatón |
-
-> **Nota:** los horarios y contenidos son preliminares y podrán modificarse a medida que se confirme el programa definitivo.
----
-
-## 🎤 Charlas y presentaciones
-
-El encuentro contará con presentaciones de integrantes de la comunidad OpenStreetMap y de personas vinculadas con la producción, utilización y análisis de información geográfica.
-
-En esta sección se publicarán próximamente:
-
-- Título de cada presentación.
-- Nombre de los expositores.
-- Institución u organización de pertenencia.
-- Horario.
-- Modalidad de participación.
-
----
-
-## 🛠️ Talleres y actividades prácticas
-
-La jornada también contará con espacios destinados al aprendizaje y al intercambio práctico.
-
-Se prevé trabajar sobre herramientas y metodologías relacionadas con:
-
-- Edición y actualización de OpenStreetMap.
-- Relevamiento de información territorial.
-- Herramientas de mapeo colaborativo.
-- Análisis de datos geográficos.
-- Uso de información abierta para proyectos territoriales.
-
-Los talleres definitivos, sus horarios y responsables serán publicados próximamente.
-
----
-
-## 🏛️ OpenStreetMap y Pergamino
-
-Uno de los ejes del encuentro será compartir la experiencia desarrollada en **Pergamino** en torno a la producción, actualización y utilización de información geográfica abierta.
-
-Desde la **Dirección de Sistemas de Información Geográfica (DSIG) e IDE Pergamino** se viene trabajando con información territorial y con la comunidad OpenStreetMap, promoviendo la generación y actualización de datos que puedan ser utilizados tanto por la Municipalidad como por ciudadanos, organizaciones, instituciones y empresas.
-
-El encuentro permitirá presentar estas experiencias y ponerlas en diálogo con iniciativas desarrolladas por otras comunidades y organizaciones.
-
----
-
-## 🤝 Comunidad y Estado
-
-El encuentro busca fortalecer los vínculos entre la comunidad OpenStreetMap y las instituciones públicas.
-
-La jornada será un espacio para compartir experiencias, identificar oportunidades de colaboración y explorar nuevas formas de producir, mejorar y utilizar información geográfica abierta.
-
-La propuesta parte de una idea central:
-
-> **Los datos geográficos abiertos pueden generar valor cuando comunidad e instituciones trabajan de manera colaborativa sobre el territorio.**
+> **Nota:** el programa puede tener ajustes menores de horarios o contenidos.
 
 ---
 
@@ -142,7 +53,7 @@ Las instrucciones y enlaces para participar de manera remota serán publicados p
 **Datos abiertos, territorio y comunidad**
 
 📅 **Sábado 17 de octubre de 2026**
-🕘 **9:00 a 17:00 horas**
+🕘 **09:00 a 17:00 horas**
 📍 **Hub de Innovación · Municipalidad de Pergamino**
 💻 **Modalidad presencial y virtual**
 
