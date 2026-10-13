@@ -18,19 +18,19 @@ include_map: false
     <div class="stat-number">64,639</div>
     <div class="stat-label">Escuelas oficiales<br>en Argentina</div>
   </div>
-  
+
   <div class="stat-box">
     <div class="stat-number">78.8%</div>
     <div class="stat-label">Cobertura actual<br>en OpenStreetMap</div>
   </div>
-  
+
   <div class="stat-box">
     <div class="stat-number">13,758</div>
     <div class="stat-label">Escuelas faltantes<br>por mapear</div>
   </div>
-  
+
   <div class="stat-box destacado">
-    <div class="stat-number">248</div>
+    <div class="stat-number">138</div>
     <div class="stat-label">Tareas preparadas<br>para el encuentro</div>
   </div>
 </div>
@@ -39,18 +39,13 @@ include_map: false
 
 ## 🎯 Challenges para el Encuentro
 
-### **Challenge Principal: Escuelas Luján**
-- **218 tareas** de escuelas en la zona de Luján
+### **Challenge Principal: Escuelas Pergamino**
+- **138 tareas** de escuelas en la zona de Pergamino
 - **Verificación automática** con enlaces Overpass
 - **Enlaces directos** a legajos oficiales del Ministerio
-- **Tags específicos:** `sotm_lujan2025=yes` + `proyecto_escuelas_argentina=yes`
+- **Tags específicos:** `sotm_pergamino2026=yes` + `proyecto_escuelas_argentina=yes`
 
-[🗺️ Participar en Challenge Luján]({{ site.links.maproulette_lujan }}){:.btn .btn-success .btn-large}
-
-### **Challenge Adicional: Escuelas Chajarí**
-- **30 tareas** complementarias
-- Mismo sistema de verificación y tags
-- Para participantes que completen el challenge principal
+[🗺️ Participar en Challenge Pergamino]({{ site.links.maproulette_pergamino }}){:.btn .btn-success .btn-large}
 
 [📋 Ver Proyecto Completo]({{ site.links.maproulette_project }}){:.btn .btn-outline}
 
@@ -61,7 +56,7 @@ include_map: false
 ### **Workflow para Mappers**
 
 #### 1. Acceder a la Tarea
-- Ir al [Challenge Luján]({{ site.links.maproulette_lujan }})
+- Ir al [Challenge Pergamino]({{ site.links.maproulette_pergamino }})
 - Seleccionar una tarea disponible
 - Leer las instrucciones específicas
 
@@ -104,7 +99,7 @@ source=Ministerio de Educación Argentina
 
 ### **Tags de Seguimiento del Encuentro**
 ```
-sotm_lujan2025=yes
+sotm_pergamino2026=yes
 proyecto_escuelas_argentina=yes
 ```
 
@@ -135,12 +130,12 @@ proyecto_escuelas_argentina=yes
 
 ### **Referencias Oficiales Completas**
 - **Legajos ministeriales** - Enlaces directos verificables
-- **CUE específico Argentina** - Identificador único nacional  
+- **CUE específico Argentina** - Identificador único nacional
 - **Fuente oficial** documentada en cada elemento
 - **Trazabilidad completa** desde gobierno a OSM
 
 ### **Calidad de Datos Garantizada**
-- **Setup completado** - 248 tareas verificadas y listas
+- **Setup completado** - 138 tareas verificadas y listas
 - **Duplicados investigados** - Casos críticos pre-resueltos
 - **Referencias no contaminantes** - Sin afectar campo website
 - **Workflow probado** - Metodología testeada y funcionando
@@ -150,15 +145,15 @@ proyecto_escuelas_argentina=yes
 ## 📈 Impacto Esperado
 
 ### **Durante el Encuentro**
-- **Participantes del encuentro** × **4.5 horas** de mapatón intensivo
-- **Estimación conservadora:** 50-100 escuelas mapeadas
-- **Zona Luján:** Cobertura educativa significativamente mejorada
+- **Participantes del encuentro** × **1.5 horas** de mapatón intensivo
+- **Estimación conservadora:** 40-50 escuelas mapeadas
+- **Zona Pergamino:** Cobertura educativa significativamente mejorada
 - **Experiencia práctica** con datos gubernamentales oficiales
 
 ### **Post Encuentro**
 - **Metodología consolidada** para futuras provincias
-- **Modelo replicable** para otros encuentros regionales  
-- **Base técnica sólida** para State of the Map Argentina 2026
+- **Modelo replicable** para otros encuentros regionales
+- **Base técnica sólida** para State of the Map Argentina 2027
 - **Precedente exitoso** de colaboración comunidad-estado
 
 ---
@@ -188,7 +183,7 @@ proyecto_escuelas_argentina=yes
 - **Ganas de aprender** metodologías de verificación oficial
 
 ### **Durante el Mapatón**
-- **Soporte técnico** disponible (Andrés Duhour + team)
+- **Soporte técnico** disponible (Manuel Retamozo + team)
 - **Resolución de dudas** en tiempo real
 - **Trabajo colaborativo** presencial/virtual
 - **osmlanduseR** para análisis post-mapeo
@@ -204,18 +199,18 @@ proyecto_escuelas_argentina=yes
 ## 🔗 Enlaces y Recursos
 
 <div class="recursos-proyecto">
-  <a href="{{ site.links.maproulette_lujan }}" class="recurso-principal">
-    🗺️ Challenge Luján (218 tareas)
+  <a href="{{ site.links.maproulette_pergamino }}" class="recurso-principal">
+    🗺️ Challenge Pergamino (138 tareas)
   </a>
-  
+
   <a href="{{ site.links.maproulette_project }}" class="recurso-secundario">
     📋 Proyecto Completo MapRoulette
   </a>
-  
+
   <a href="https://mapa.educacion.gob.ar/" target="_blank" class="recurso-secundario">
     🏛️ Mapa Educativo Oficial
   </a>
-  
+
   <a href="https://overpass-turbo.eu/" target="_blank" class="recurso-secundario">
     🔍 Overpass Turbo
   </a>
@@ -224,9 +219,9 @@ proyecto_escuelas_argentina=yes
 ---
 
 <div class="proyecto-footer">
-  <h3>🎖️ Proyecto Listo para SOTM 2025</h3>
+  <h3>🎖️ Proyecto Listo para SOTM 2026</h3>
   <p>Setup completado, herramientas probadas, metodología consolidada.<br>
-  <strong>¡Todo preparado para mapear colaborativamente las 248 escuelas durante el encuentro!</strong></p>
+  <strong>¡Todo preparado para mapear colaborativamente las 138 escuelas durante el encuentro!</strong></p>
 </div>
 
 <style>
